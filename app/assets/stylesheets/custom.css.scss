@@ -1,1 +1,47 @@
 @import 'bootstrap/dist/css/bootstrap';
+.logo {
+  font-size: 2em;
+  font-weight: bold;
+  letter-spacing: -1px;
+}
+
+.logo:hover {font-size: 2.1em;}
+
+.nav-item {
+  font-size: 1.6em;
+  font-weight: bold;
+  padding: 0 0.5em;
+}
+
+.navbar-custom {background-color: #f0134d;}
+
+.nav-item:hover {
+  font-size: 1.7em;
+  background-color: #ff4c68;
+  }
+
+.signup {background-color: #ff4c68;
+margin: 1rem 0;}
+
+.signup:hover {
+  font-weight: bold;
+  background-color: #f0134d;
+}
+
+.container {text-align: center;}
+
+.jumbotron {background-color: #f5f0e3;
+  // margin-top: 2rem;
+  // margin-bottom: 2rem;
+  text-align: center;
+  background-image: url('https://chadforeman.com/wp-content/uploads/2019/02/2019-02-19/landscape-photography-seneca-rocks-wv.jpg');
+  height: 1400px;
+  // height: 600px;
+}
+
+.jumbotext {font-weight: bold
+}
+
+.col-sm-6 p {text-align: center;}
+.footer-right {text-align: center;
+  float: right;}
