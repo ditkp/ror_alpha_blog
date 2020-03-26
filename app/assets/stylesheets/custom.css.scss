@@ -1,4 +1,8 @@
 @import 'bootstrap/dist/css/bootstrap';
+.center_obj {margin: 0 auto 0 auto;}
+
+.center_text {text-align: center;}
+
 .logo {
   font-size: 2em;
   font-weight: bold;
@@ -45,3 +49,5 @@ margin: 1rem 0;}
 .col-sm-6 p {text-align: center;}
 .footer-right {text-align: center;
   float: right;}
+
+  .show-container {margin: 2rem 0;}
